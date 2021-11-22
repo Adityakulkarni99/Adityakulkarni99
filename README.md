@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aditya Kulkarni</h1>
-<h3 align="center">A passionate Data Science Student from India</h3>
+<h3 align="center">A passionate Data Science Aspirant</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityakulkarni99&label=Profile%20views&color=0e75b6&style=flat" alt="adityakulkarni99" /> </p>
 
 - 🔭 I’m currently working on **Fake Currency Detection**
-
-- 🌱 I’m currently learning **Cloud Computing and Deep Learning**
 
 - 📫 How to reach me **aditya99.kulkarni@gmail.com**
 
@@ -13,9 +12,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/adityakulkarni99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/adityakulkarni99" height="30" width="40" /></a>
-<a href="https://instagram.com/instagram.com/_dem_salty_boy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/_dem_salty_boy/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hackerrank.com/aditya99_kulkar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank.com/aditya99_kulkar1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adityakulkarni99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityakulkarni99" height="30" width="40" /></a>
+<a href="https://instagram.com/_dem_salty_boy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_dem_salty_boy/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/aditya99_kulkar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aditya99_kulkar1" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/DP2VA4M" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/DP2VA4M" height="30" width="40" /></a>
 </p>
 
